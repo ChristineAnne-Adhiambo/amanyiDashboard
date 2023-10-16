@@ -128,7 +128,7 @@ const DataRecordings: React.FC = () => {
 </div>
 
 
-      <div className="mx-auto mt-7 ml-10">
+      <div className="mx-auto mb-20 ml-10">
       <h1 className="ml-[40%] font-bold mb-8">pH and Temperature Water Readings</h1>
         <table className="w-[50%] mx-auto">
           <thead>

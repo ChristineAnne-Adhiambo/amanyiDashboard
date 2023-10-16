@@ -37,8 +37,7 @@ const LandingPage = () => {
           <div className="text-2xl font-bold text-center bg-[#082E58] bg-opacity-80 text-white p-9 shadow-lg w-3/6 h-[62%] mb-20 rounded-md">
             <div className="mb-[10px] flex flex-col items-center justify-center space-y-8">
               <img src="/images/Amanyi-Logo.png" alt="Amanyi logo" />
-              <h1 className="text-5xl mb-7">Welcome back! 👋</h1>
-              <h5 className="text-5xl mb-7"> Aqua'Manyi,</h5>
+              <h1 className="text-5xl mb-7">Aqua'Manyi,</h1>
               <p className="text-3lg">Preserving Aquatic Lives</p>
             </div>
           </div>

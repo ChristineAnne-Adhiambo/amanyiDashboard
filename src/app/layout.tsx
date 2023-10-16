@@ -29,6 +29,7 @@ export default function RootLayout({
       theme='dark'
       
       />
+      
         <div className="flex">
           {showSidebar && <Sidebar />}
           <div className='w-full flex-1'>

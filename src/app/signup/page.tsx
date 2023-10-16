@@ -47,7 +47,6 @@ const handleFormSubmit: React.FormEventHandler<HTMLFormElement> = async (event) 
   }
 };
 
-
   return (
     <div className="flex w-full min-h-screen flex-col md:flex-row">
       <div className="bg-primary flex-1 flex justify-center items-center">
